@@ -52,7 +52,7 @@ body::after{
     height: 100vh;
     backdrop-filter: blur(10px);
     text-align: center;
-    padding-top: 225px;
+    padding-top: 226px;
 }
 
 .login-form {
